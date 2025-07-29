@@ -21,7 +21,7 @@ mkdir del-me-dir
 rm -rf del-me-dir
 
 
-find / -name "README.md" 2>/dev/null
+find Screenshots
 
 
 ls -ltr
